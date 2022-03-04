@@ -34,7 +34,7 @@ describe("LINKS Project", function () {
         .siblings('input[type="text"]')
         .type("11000");
 
-      cy.wait(5000);
+      cy.wait(1000);
 
       cy.get("a").contains("11000 BEOGRAD, Serbia").click();
 
@@ -94,7 +94,7 @@ describe("LINKS Project", function () {
           .siblings('input[type="text"]')
           .type("11000");
 
-        cy.wait(5000);
+        cy.wait(1000);
 
         cy.get("a").contains("11000 BEOGRAD, Serbia").click();
 
