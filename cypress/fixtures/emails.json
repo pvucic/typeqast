@@ -1,0 +1,15 @@
+{
+    "invalid": [
+        "testATgmail.com",
+        "test@gmailcom",
+        "testgmail.com",
+        "@gmail.com",
+        "abrakadabra",
+        "test@gmail",
+        "@gmail",
+        "12344558",
+        "test@",
+        "testatgmail.com",
+        "test"
+    ]
+}
