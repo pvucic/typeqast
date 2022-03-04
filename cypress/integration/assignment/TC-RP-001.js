@@ -56,7 +56,7 @@ describe("LINKS Project", function () {
         .find(":selected")
         .should("contain", "Serbia");
 
-      //Clear prevous Postal Code input
+      //Clear previous Postal Code input
       cy.get('label[for="ZipPostalCode"]')
         .siblings('input[type="text"]')
         .clear();
