@@ -9,7 +9,7 @@ If Node.js is installed then you will get information about Node.js version (exa
 
 Otherwise please follow the official installation guide for your Operating System on the link below,
 
-[Install Node](https://nodejs.org/en/download/)
+[Install Node.js](https://nodejs.org/en/download/)
 
 
 ## Running tests
