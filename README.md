@@ -5,7 +5,7 @@ Check the presence of Node.js
 ```bash
 node -v
 ```
-If Node.js is installed then you will get information about Node.js version (as an example v14.18.1)
+If Node.js is installed then you will get information about Node.js version (example v14.18.1)
 
 Otherwise please follow the official installation guide for your Operating System on the link below,
 
