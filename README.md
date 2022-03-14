@@ -43,3 +43,13 @@ Following naming conventions is used to name tests:
 
 - `TC` - Test Case
 - `RP` - Registration Page
+
+
+## Manual testing documentation
+
+[Typeqast](docs/Typeqast.xlsx)
+
+## Bug reports
+
+[Bug report TC-RP-006](docs/Bug%20Report%20TC-RP-006.xlsx)
+[Bug report TC-RP-017](docs/Bug%20Report%20TC-RP-017.xlsx)
