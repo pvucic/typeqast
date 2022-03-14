@@ -22,7 +22,7 @@ cd typeqast_assignmen
 npm install
 ```
 
-After successful installation, tests can be run with the following command:
+After successful installation, tests can be run with the following command below:
 
 
 ## Running tests from Terminal
