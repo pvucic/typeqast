@@ -50,7 +50,7 @@ Following naming conventions is used to name tests:
 
 
 ## Manual testing documentation
-# Test plan document
+#### Test plan document
 
 [Typeqast.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249070/Typeqast.xlsx)
 
