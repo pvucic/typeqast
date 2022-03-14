@@ -5,7 +5,7 @@ Check the presence of Node.js
 ```bash
 node -v
 ```
-If Node.js is installed then you will get information about Node.js version, as an example v14.18.1
+If Node.js is installed then you will get information about Node.js version (as an example v14.18.1)
 
 Otherwise please follow the official installation guide for your Operating system on the link below,
 
@@ -23,13 +23,13 @@ npm install
 
 After successful installation, tests can be run with following command:
 
-### Running tests from terminal
+## Running tests from terminal
 
 ```bash
 npx cypress run
 ```
 
-### Running tests from Cypress test runner
+## Running tests from Cypress test runner
 
 ```bash
 npx cypress open
