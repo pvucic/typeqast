@@ -11,6 +11,7 @@ Otherwise please follow the official installation guide for your Operating Syste
 
 [Install Node](https://nodejs.org/en/download/)
 
+
 ## Running tests
 
 Clone the repository on your local machine and install packages:
@@ -23,17 +24,20 @@ npm install
 
 After successful installation, tests can be run with the following command:
 
+
 ## Running tests from Terminal
 
 ```bash
 npx cypress run
 ```
 
+
 ## Running tests from Cypress Test Runner
 
 ```bash
 npx cypress open
 ```
+
 
 ## Test naming conventions
 
@@ -47,10 +51,12 @@ Following naming conventions is used to name tests:
 
 ## Manual testing documentation
 
-[Typeqast](docs/Typeqast.xlsx)
+[Typeqast.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249070/Typeqast.xlsx)
+
 
 ## Bug reports
 
-[Bug report TC-RP-006](docs/Bug%20Report%20TC-RP-006.xlsx)
+[Bug Report TC-RP-006.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249072/Bug.Report.TC-RP-006.xlsx)
 
-[Bug report TC-RP-017](docs/Bug%20Report%20TC-RP-017.xlsx)
+[Bug Report TC-RP-017.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249073/Bug.Report.TC-RP-017.xlsx)
+
