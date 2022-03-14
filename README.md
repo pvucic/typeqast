@@ -1,3 +1,7 @@
+# Typeqast Assignment
+### Testing the https://www.links.hr/hr/register. registration page
+
+
 ## Install Node.js
 
 Check the presence of Node.js
