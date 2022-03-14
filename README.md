@@ -1,5 +1,5 @@
 # Typeqast Assignment
-### Testing the https://www.links.hr/hr/register. registration page
+### Testing the    [link](https://www.links.hr/hr/register){:target="_blank"} registration page
 
 
 ## Install Node.js
