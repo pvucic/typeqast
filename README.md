@@ -54,7 +54,7 @@ Following naming conventions is used to name tests:
 [Typeqast.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249070/Typeqast.xlsx)
 
 
-## Bug reports
+## Bug Reports
 
 [Bug Report TC-RP-006.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249072/Bug.Report.TC-RP-006.xlsx)
 
