@@ -7,7 +7,7 @@ node -v
 ```
 If Node.js is installed then you will get information about Node.js version (as an example v14.18.1)
 
-Otherwise please follow the official installation guide for your Operating system on the link below,
+Otherwise please follow the official installation guide for your Operating System on the link below,
 
 [Install Node](https://nodejs.org/en/download/)
 
