@@ -21,15 +21,15 @@ cd typeqast_assignmen
 npm install
 ```
 
-After successful installation, tests can be run with following command:
+After successful installation, tests can be run with the following command:
 
-## Running tests from terminal
+## Running tests from Terminal
 
 ```bash
 npx cypress run
 ```
 
-## Running tests from Cypress test runner
+## Running tests from Cypress Test Runner
 
 ```bash
 npx cypress open
@@ -37,9 +37,9 @@ npx cypress open
 
 ## Test naming conventions
 
-following naming conventions is used to name tests:
+Following naming conventions is used to name tests:
 
-`tc-rp-001`
+`TC-RP-001`
 
-- `tc` - test case
-- `rp` - registration page
+- `TC` - Test Case
+- `RP` - Registration Page
