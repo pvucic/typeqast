@@ -1,12 +1,12 @@
-## Install Node
+## Install Node.js
 
-Check node presence
+Check the presence of Node.js
 
 ```bash
 node -v
 ```
-
-If you node is installed then you will get information about node version. Otherwise please follow official installation guide for your OS
+If Node.js is installed then you will get information about Node.js version.
+Otherwise please follow the official installation guide for your Operating system on the link below,
 
 [Install Node](https://nodejs.org/en/download/)
 
