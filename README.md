@@ -52,4 +52,5 @@ Following naming conventions is used to name tests:
 ## Bug reports
 
 [Bug report TC-RP-006](docs/Bug%20Report%20TC-RP-006.xlsx)
+
 [Bug report TC-RP-017](docs/Bug%20Report%20TC-RP-017.xlsx)
