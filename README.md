@@ -55,9 +55,8 @@ Following naming conventions below were used to name tests:
 ## Test plan document
 ### Manual testing documentation
 
-```
 [Typeqast.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249070/Typeqast.xlsx)
-```
+
 
 ## Bug Reports
 
