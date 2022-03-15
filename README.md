@@ -21,8 +21,8 @@ Otherwise please follow the official installation guide for your Operating Syste
 Clone the repository on your local machine and install packages:
 
 ```bash
-git clone https://github.com/pvucic/typeqast_assignmen
-cd typeqast_assignmen
+git clone https://github.com/pvucic/typeqast_assignment
+cd typeqast_assignment
 npm install
 ```
 
