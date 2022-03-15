@@ -52,9 +52,9 @@ Following naming conventions below were used to name tests:
 - `TC` - Test Case
 - `RP` - Registration Page
 
+## Test plan document
+### Manual testing documentation
 
-## Manual testing documentation
-### Test plan document
 
 [Typeqast.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249070/Typeqast.xlsx)
 
