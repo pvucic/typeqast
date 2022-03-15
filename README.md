@@ -45,7 +45,7 @@ npx cypress open
 
 ## Test naming conventions
 
-Following naming conventions below were used to name tests:
+The following naming conventions were used to name tests:
 
 `TC-RP-001`
 
