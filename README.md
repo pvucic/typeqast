@@ -2,9 +2,9 @@
 ### Testing the https://www.links.hr/hr/register registration page
 
 ## Installation
-### Install Node.js
+### Node.js
 
-Check the presence of Node.js
+Check the presence of Node.js first
 
 ```bash
 node -v
