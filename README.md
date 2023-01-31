@@ -1,4 +1,4 @@
-# Typeqast
+# Typeqast Assigment
 ### Testing the https://www.links.hr/hr/register registration page
 
 ## Installation
