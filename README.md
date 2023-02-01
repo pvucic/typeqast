@@ -21,8 +21,8 @@ Otherwise please follow the official installation guide for your Operating Syste
 Clone the repository on your local machine and install packages:
 
 ```bash
-git clone https://github.com/pvucic/typeqast_assignment
-cd typeqast_assignment
+git clone https://github.com/pvucic/typeqast
+cd typeqast
 npm install
 ```
 
@@ -55,12 +55,12 @@ The following naming conventions were used to name tests:
 ## Test plan document
 ### Manual testing documentation
 
-[Typeqast.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249070/Typeqast.xlsx)
+[Typeqast.xlsx](https://github.com/pvucic/typeqast/files/8249070/Typeqast.xlsx)
 
 
 ## Bug Reports
 
-[Bug Report TC-RP-006.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249072/Bug.Report.TC-RP-006.xlsx)
+[Bug Report TC-RP-006.xlsx](https://github.com/pvucic/typeqast/files/8249072/Bug.Report.TC-RP-006.xlsx)
 
-[Bug Report TC-RP-017.xlsx](https://github.com/pvucic/typeqast_assignment/files/8249073/Bug.Report.TC-RP-017.xlsx)
+[Bug Report TC-RP-017.xlsx](https://github.com/pvucic/typeqast_/files/8249073/Bug.Report.TC-RP-017.xlsx)
 
