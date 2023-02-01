@@ -62,5 +62,5 @@ The following naming conventions were used to name tests:
 
 [Bug Report TC-RP-006.xlsx](https://github.com/pvucic/typeqast/files/8249072/Bug.Report.TC-RP-006.xlsx)
 
-[Bug Report TC-RP-017.xlsx](https://github.com/pvucic/typeqast_/files/8249073/Bug.Report.TC-RP-017.xlsx)
+[Bug Report TC-RP-017.xlsx](https://github.com/pvucic/typeqast/files/8249073/Bug.Report.TC-RP-017.xlsx)
 
